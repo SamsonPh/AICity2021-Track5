@@ -1,0 +1,6 @@
+extracted_data/baseline/
+extracted_data/data/
+extracted_data/train/
+extracted_data/validation/
+raw_data/AIC21_Track5_NL_Retrieval/
+raw_data/AIC21_Track5_NL_Retrieval_full.zip
